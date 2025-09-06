@@ -1,0 +1,2 @@
+sessionId,driverId,vehicleId,durationSec,distanceKm,avgSpeed,maxSpeed,avgAccel,maxAccel,minAccel
+trip-001,driver-001,vehicle-001,300,2.4,15.91,72.50,0.49,2.48,-0.98
